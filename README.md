@@ -101,16 +101,4 @@ HanaSafe를 통해 해외송금 시 발생하는 착오송금을 줄여 그 사�
 <br>
 
 
-# 4. 본인 소개
-
-|이름 |윤다영|![gdKO](/윤다영.jpg)|
-|연락처 | dayoung927(@)gmail.com|
-|skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
-|자격증| SQLD  |
-|수상| 통신분야 빅데이터 플랫폼 아이디어 경진대회 일반부 대상 |
-|특기사항|  TOEIC 975, HSK 6급 |
-
-
-
  
