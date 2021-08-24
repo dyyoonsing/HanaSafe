@@ -2,7 +2,6 @@
 # 착오송금을 덜어주는 안전한 해외송금 HanaSafe
 
 
-[프로젝트 홈페이지 - https://koposoftware.github.io/2020_16_dyyoon/](https://koposoftware.github.io/2020_16_dyyoon/)
 
 # 1. 프로젝트 개요
 
@@ -26,8 +25,8 @@ HanaSafe는 기존 하나은행의 해외송금에서 착오송금을 예방하�
    <img src="ppt.png"/><br>
 
 ## 3-2. 시연 동영상 
+https://www.youtube.com/embed/POMcV9qG9ak
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/POMcV9qG9ak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
 ## 3-3. HanaSafe 프로젝트 요약
 
